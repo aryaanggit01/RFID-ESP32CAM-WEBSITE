@@ -6,7 +6,7 @@ Sistem Absensi RFID dan ESP32 Cam
 - Tampilan Login
 <img src="image/login.PNG">
 
-- Tampilan Halaman Utama
+- Tampilan Halaman Utama (Dashboard)
 <img src="image/halamanweb.PNG">
 
 - Tampilan Halaman Data Karyawan
