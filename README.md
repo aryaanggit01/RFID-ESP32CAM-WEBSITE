@@ -2,6 +2,8 @@
 Sistem Absensi RFID dan ESP32 Cam
 
 
+- Rangkaian Fritzing
+<img src="image/fritzing.PNG">
 
 - Tampilan Login
 <img src="image/login.PNG">
