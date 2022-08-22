@@ -1,0 +1,44 @@
+.green {
+    width: 30px;
+    background-color: green;
+    text-align: center;
+}
+
+.orange {
+    width: 30px;
+    background-color: orange;
+    text-align: center;
+}
+
+.yellow {
+    width: 30px;
+    background-color: yellow;
+    text-align: center;
+}
+
+.red {
+    width: 30px;
+    background-color: red;
+    text-align: center;
+}
+
+.null {
+    text-align: center;
+}
+
+.row {
+    width: 30px;
+}
+
+.nama {
+    width: 150px;
+}
+
+.center {
+    text-align: center;
+}
+
+font {
+    margin-left: 30px;
+    margin-right: 30px;
+}
