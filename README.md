@@ -3,26 +3,23 @@ Sistem Absensi RFID dan ESP32 Cam
 
 
 
-- Yx
-<img src="image/yx.png">
-
 - Tampilan Login
-<img src="image/login.png">
+<img src="image/login.PNG">
 
 - Tampilan Halaman Utama
-<img src="image/halamanutama.png">
+<img src="image/halamanutama.PNG">
 
 - Tampilan Halaman Data Karyawan
-<img src="image/datakaryawan.png">
+<img src="image/datakaryawan.PNG">
 
 - Tampilan Halaman Data Jabatan
-<img src="image/datajabatan.png">
+<img src="image/datajabatan.PNG">
 
 - Tampilan Halaman Data Rekap
-<img src="image/datarekap.png">
+<img src="image/datarekap.PNG">
 
 - Tampilan Halaman Data Izin
-<img src="image/dataizin.png">
+<img src="image/dataizin.PNG">
 
 - Tampilan Halaman Data Libur
-<img src="image/datalibur.png">
+<img src="image/datalibur.PNG">
